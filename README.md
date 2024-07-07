@@ -3,7 +3,7 @@ Batch:  July: Data Science : M1
 
 # Sales Prediction Using Python
 
-![Sales Prediction Using Python](https://github.com/Soumyabk3/CODSOFT/blob/main/Task4%20Codsoft/Sales%20Prediction%20Using%20Python.png)
+![Sales Prediction Using Python](https://github.com/Soumyabk3/Code_Alpha_Predictive_Modeling_with_Linear_Regression/blob/main/predictive%20model%20with%20lr.png)
 
 ## Problem Statement
 
